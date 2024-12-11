@@ -25,5 +25,7 @@ Para testear el resultado de la predicción de la semana anterior con las transa
 
 En cada semana se debe hacer la query al Google Cloud y traer los datos correspondientes.  Todos esos files van en el directorio 'data/vendimia', que es también donde van los outputs de los scripts.
 
+[Por una cuestión de espacio en el github, no hay en este repo ninguno de los files enormes de las queries a la database]
+
 
 
